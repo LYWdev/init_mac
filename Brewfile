@@ -49,7 +49,6 @@ cask "docker"
 cask "firefox"
 cask "google-chrome"
 cask "gureumkim"
-cask "hashicorp-vagrant"
 cask "iterm2"
 cask "microsoft-auto-update"
 cask "microsoft-office"
@@ -58,12 +57,18 @@ cask "slack"
 cask "tabby"
 cask "termius"
 cask "utm"
-cask "vagrant"
 cask "visual-studio-code"
-cask "vmware-fusion"
 cask "vnc-viewer"
 mas "카카오톡", id: 869223134
 mas "한컴오피스 한글 Viewer", id: 416746898
+mas "Microsoft OneDrive", id: 477537958
+mas "Microsoft Outlook", id: 951937596
+mas "Microsoft Word", id: 462054704
+mas "Microsoft Excel", id: 462058435
+mas "Microsoft PowerPoint", id: 462062816
+mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Outlook", id: 985367838
+mas "Microsoft To Do ", id: 1274495053
 vscode "abusaidm.html-snippets"
 vscode "alefragnani.project-manager"
 vscode "batisteo.vscode-django"
